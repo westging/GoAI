@@ -1,6 +1,7 @@
 # GoAI
 
 Go AI using Deep-learning(Reinforcement Learning)
+[Deep Learning and the Game of Go]
 
 대국 규칙:
 1. 착수한 후에는 돌을 움직일 수 없다.
